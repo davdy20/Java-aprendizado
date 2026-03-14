@@ -8,9 +8,11 @@ public class ex5 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		//Declaração de varíaveis
 		int cod1, cod2, qte1, qte2;
 		double preco1, preco2, total;
 		
+		//Entrada de dados
 		System.out.println("Digite o código da primeira peça: ");
 		cod1 = sc.nextInt();
 		
@@ -29,8 +31,10 @@ public class ex5 {
 		System.out.println("Digite o preço da segunda peça: ");
 		preco2 = sc.nextDouble();
 		
+		//Processamento de dados
 		total = (preco1 * qte1) + (preco2 * qte2);
 		
+		//Saída de dados
 		System.out.printf("O preço a pagar é: R$%.2f\n", total);
 		
 		sc.close();
