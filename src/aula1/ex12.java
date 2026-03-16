@@ -9,7 +9,7 @@ public class ex12 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		//Declaração de varíaveis
+		//Declaração de varíavel
 		double numero;
 		
 		//Entrada de dados
