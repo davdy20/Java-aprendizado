@@ -16,23 +16,23 @@ public class ex12 {
 		System.out.println("Digite um numero: ");
 		numero = sc.nextDouble();
 		
-		//Estrtura de decisão
+		//Estrutura de decisão
 		//Processamento de dados
 		//Saída de dados
 		if (numero < 0.0 || numero > 100.0) {
 			System.out.println("Fora do intervalo");
 		}
 		else if (numero <= 25.0) {
-			System.out.println("Intervalo [0,25]");
+			System.out.println("Intervalo é [0,25]");
 		}
 		else if (numero <= 50.0) {
-			System.out.println("Intervalo [25,50]");
+			System.out.println("Intervalo é [25,50]");
 		}
 		else if (numero <= 75.0){
-			System.out.println("Intervalo [50,75]");
+			System.out.println("Intervalo é [50,75]");
 		}		
 		else {
-			System.out.println("Intervalo [75,100]");
+			System.out.println("Intervalo é [75,100]");
 		}		
 		
 		sc.close();
