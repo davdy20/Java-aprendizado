@@ -18,6 +18,7 @@ public class ex12 {
 		
 		//Estrtura de decisão
 		//Processamento de dados
+		//Saída de dados
 		if (numero < 0.0 || numero > 100.0) {
 			System.out.println("Fora do intervalo");
 		}
