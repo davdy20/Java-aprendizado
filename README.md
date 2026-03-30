@@ -1,3 +1,7 @@
-Exercícios em Java
+# Exercícios em Java
 
-Bem-vindo ao meu diretório criado para armazenar e mostrar meu Aprendizado e progesso na linguagem Java, aqui resolvo desde problemas simples até mais complexos com o objetivo de mostrar meu aprendizado estruturado na linguagem Java
+Bem-vindo ao meu repositório de estudos em Java.
+
+Aqui você encontrará exercícios que desenvolvi para praticar e evoluir minhas habilidades na linguagem, desde conceitos básicos até problemas mais complexos.
+
+O objetivo deste repositório é demonstrar meu progresso, organização de código e aprendizado contínuo em programação.
